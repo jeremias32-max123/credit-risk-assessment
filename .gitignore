@@ -113,7 +113,7 @@ dmypy.json
 Thumbs.db
 
 # Project-specific
-*.joblib
+# *.joblib  # Keeping model files for reproducibility
 *.pkl
 *.pickle
 
