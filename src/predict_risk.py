@@ -7,6 +7,9 @@ using a pre-trained machine learning model.
 
 Author: Jamiu Olamilekan Badmus
 Email: jamiubadmus001@gmail.com
+GitHub: https://github.com/jamiubadmusng
+LinkedIn: https://www.linkedin.com/in/jamiu-olamilekan-badmus-9276a8192/
+Website: https://jamiubadmus.com
 """
 
 import os

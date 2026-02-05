@@ -9,7 +9,8 @@
 **Author:** Jamiu Olamilekan Badmus  
 **Email:** jamiubadmus001@gmail.com  
 **LinkedIn:** [Jamiu Olamilekan Badmus](https://www.linkedin.com/in/jamiu-olamilekan-badmus-9276a8192/)  
-**GitHub:** [jamiubadmusng](https://github.com/jamiubadmusng)
+**GitHub:** [jamiubadmusng](https://github.com/jamiubadmusng)  
+**Website:** [jamiubadmus.com](https://jamiubadmus.com)
 
 ---
 
@@ -112,7 +113,6 @@ finance/
 │       ├── confusion_matrix.png
 │       ├── roc_pr_curves.png
 │       ├── threshold_optimization.png
-│       ├── feature_importance.png
 │       ├── shap_importance.png
 │       ├── shap_beeswarm.png
 │       └── risk_distribution.png
@@ -322,3 +322,4 @@ For questions or collaboration opportunities:
 - **Email**: jamiubadmus001@gmail.com
 - **LinkedIn**: [Jamiu Olamilekan Badmus](https://www.linkedin.com/in/jamiu-olamilekan-badmus-9276a8192/)
 - **GitHub**: [jamiubadmusng](https://github.com/jamiubadmusng)
+- **Website**: [jamiubadmus.com](https://jamiubadmus.com)

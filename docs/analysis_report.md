@@ -3,7 +3,10 @@
 ## Predicting Loan Default Using Machine Learning
 
 **Author:** Jamiu Olamilekan Badmus  
-**Date:** February 2026
+**Date:** February 2026  
+**GitHub:** [jamiubadmusng](https://github.com/jamiubadmusng)  
+**LinkedIn:** [Jamiu Olamilekan Badmus](https://www.linkedin.com/in/jamiu-olamilekan-badmus-9276a8192/)  
+**Website:** [jamiubadmus.com](https://jamiubadmus.com)
 
 ---
 
@@ -263,4 +266,15 @@ This analysis demonstrates effective credit risk prediction using machine learni
 
 ---
 
-*This analysis was conducted as part of a data science portfolio project. For questions or collaboration, contact jamiubadmus001@gmail.com.*
+## Contact
+
+For questions or collaboration, contact:
+
+- **Email:** jamiubadmus001@gmail.com
+- **GitHub:** [jamiubadmusng](https://github.com/jamiubadmusng)
+- **LinkedIn:** [Jamiu Olamilekan Badmus](https://www.linkedin.com/in/jamiu-olamilekan-badmus-9276a8192/)
+- **Website:** [jamiubadmus.com](https://jamiubadmus.com)
+
+---
+
+*This analysis was conducted as part of a data science portfolio project.*
