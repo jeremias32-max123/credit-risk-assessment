@@ -6,7 +6,7 @@
 **Date:** February 2026  
 **GitHub:** [jamiubadmusng](https://github.com/jamiubadmusng)  
 **LinkedIn:** [Jamiu Olamilekan Badmus](https://www.linkedin.com/in/jamiu-olamilekan-badmus-9276a8192/)  
-**Website:** [jamiubadmus.com](https://jamiubadmus.com)
+**Website:** [sites.google.com/view/jamiu-olamilekan-badmus](https://sites.google.com/view/jamiu-olamilekan-badmus/)
 
 ---
 
@@ -273,7 +273,7 @@ For questions or collaboration, contact:
 - **Email:** jamiubadmus001@gmail.com
 - **GitHub:** [jamiubadmusng](https://github.com/jamiubadmusng)
 - **LinkedIn:** [Jamiu Olamilekan Badmus](https://www.linkedin.com/in/jamiu-olamilekan-badmus-9276a8192/)
-- **Website:** [jamiubadmus.com](https://jamiubadmus.com)
+- **Website:** [sites.google.com/view/jamiu-olamilekan-badmus](https://sites.google.com/view/jamiu-olamilekan-badmus/)
 
 ---
 
